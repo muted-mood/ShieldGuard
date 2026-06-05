@@ -1,0 +1,8 @@
+Contact: mailto:security@shieldguard.kz
+Expires: 2027-06-04T00:00:00.000Z
+Preferred-Languages: kk, ru, en
+Canonical: https://shieldguard.kz/.well-known/security.txt
+Policy: https://shieldguard.kz/security-policy
+
+# ShieldGuard — responsible disclosure
+# Report vulnerabilities to security@shieldguard.kz
